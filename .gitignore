@@ -1,0 +1,12 @@
+*.pyc
+*log*
+*bk*
+*.o
+floorplan/
+heatmaps/
+output/
+runs/
+rl_images/
+rl_results/
+eval_models/
+results/
