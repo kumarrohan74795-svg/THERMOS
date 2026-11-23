@@ -29,9 +29,9 @@ One trained model checkpoint is provided in the `final_model` directory. This ch
 
 If you use this code in your research, please cite our paper:
 ```bibtex
-@article{kanani2025thermos,
+@article{rohan2026thermos,
   title={THERMOS: Thermally-Aware Multi-Objective Scheduling of AI Workloads on Heterogeneous Multi-Chiplet PIM Architectures},
-  author={Kanani, Alish and Pfromm, Lukas and Sharma, Harsh and Doppa, Jana and Pande, Partha and Ogras, Umit},
+  author=kumar, Alish and Pfromm, Lukas and Sharma, Harsh and Doppa, Jana and Pande, Partha and Ogras, Umit},
   journal={ACM Transactions on Embedded Computing Systems},
-  year={2025}
+  year={2026}
 }
